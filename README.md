@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 hey there :p I'm Jahnavi
 🔭 I’m currently working on https://github.com/jahnavi-1505/LiveClasses<br>👯 I’m looking to collaborate on dev projects<br>🌱 I’m currently learning AI/ML<br>⚡ Fun fact, I am a book worm
 
 
